@@ -35,7 +35,7 @@ git clone https://github.com/yourusername/MoTeC_Cleanup.git
 cd MoTeC_Cleanup
 
 # Create and activate virtual environment
-python -m venv venv
+python -m venv .venv
 .\venv\Scripts\Activate.ps1
 
 # Install dependencies

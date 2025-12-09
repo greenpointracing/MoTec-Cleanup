@@ -1,0 +1,19 @@
+# Python venvs
+.venv/
+venv/
+
+# Bytecode/cache
+__pycache__/
+*.py[cod]
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings (examples)
+.vscode/
+.idea/
+*.swp
+
+# tests/ directory
+tests/
