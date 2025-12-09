@@ -17,3 +17,6 @@ Thumbs.db
 
 # tests/ directory
 tests/
+
+# development plans
+development.md
