@@ -1,0 +1,17 @@
+{
+    "_comment": "Maps car internal names to their category. Auto-populated by the script.",
+    "amr_v8_vantage_gt3": "gt3",
+    "audi_r8_lms_evo_ii": "gt3",
+    "bmw_m4_gt3": "gt3",
+    "bmw_m6_gt3": "gt3",
+    "ferrari_488_gt3_evo": "gt3",
+    "mclaren_650s_gt3": "gt3",
+    "mclaren_720s_gt3": "gt3",
+    "mclaren_720s_gt3_evo": "gt3",
+    "mercedes_amg_gt3_evo": "gt3",
+    "porsche_991ii_gt3_r": "gt3",
+    "ferrari_488_challenge_evo": "cup",
+    "porsche_992_gt3_cup": "cup",
+    "lamborghini_gallardo_rex": "gt2",
+    "bmw_m2_cs_racing": "tc"
+}

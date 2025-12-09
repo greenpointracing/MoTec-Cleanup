@@ -1,0 +1,7 @@
+{
+    "_comment": "Application settings for MoTeC Cleanup Tool",
+    "default_motec_path": "C:\\Users\\alasd\\Projects\\MoTeC_Cleanup\\test",
+    "report_output_path": "C:\\Temp",
+    "pb_count": 3,
+    "default_tolerance": 0.05
+}

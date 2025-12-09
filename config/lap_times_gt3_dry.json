@@ -1,0 +1,22 @@
+{
+    "_comment": "Benchmark lap times in seconds for GT3 cars - DRY conditions. Auto-populated by the script.",
+    "_tolerance": 0.05,
+    "barcelona": 104,
+    "cota": 125,
+    "donington": 64,
+    "hungaroring": 105,
+    "imola": 100,
+    "indianapolis": 98,
+    "kyalami": 102,
+    "laguna_seca": 82,
+    "misano": 94,
+    "monza": 107,
+    "mount_panorama": 120,
+    "nurburgring": 114,
+    "paul_ricard": 115,
+    "silverstone": 118,
+    "spa": 138,
+    "suzuka": 120,
+    "watkins_glen": 107,
+    "zandvoort": 95
+}
