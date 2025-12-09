@@ -140,4 +140,4 @@ Each category has a configurable tolerance (default ±5%) that defines the accep
 
 ## License
 
-MIT License - See LICENSE file for details.
+GNU GENERAL PUBLIC LICENSE - See LICENSE file for details.
